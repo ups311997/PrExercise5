@@ -36,9 +36,7 @@ Example 2:
 The map {"val1": "mars", "val2": "saturn"} should return {"val1": " ", "val2":
 "mars"}
 
-6. Write a program to implement set interface which sorts the given randomly ordered names in
-
-ascending order. Convert the sorted set in to an array list
+6. Write a program to implement set interface which sorts the given randomly ordered names in ascending order. Convert the sorted set in to an array list
 Input : Harry Olive Alice Bluto Eugene
 Output :
 Sorted Set : Alice Bluto Eugene Harry Olive
